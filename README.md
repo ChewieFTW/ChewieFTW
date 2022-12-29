@@ -1,4 +1,4 @@
-<a href="" target="blank"><img align="center" src="https://pbs.twimg.com/media/EiV8NhLUMAAPmzN.jpg:large" height="300" /></a>
+<a href="" target="blank"><img align="center" src="https://pbs.twimg.com/media/EiV8NhLUMAAPmzN.jpg:large" height="250" /></a>
 <h1>Hello There!</h1>
 Welcome to my github profile. I am a freelancer web developer. 
 
